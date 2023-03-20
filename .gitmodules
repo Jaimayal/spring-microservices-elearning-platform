@@ -3,4 +3,4 @@
 	url = .\\courses-microservice\\
 [submodule "users-microservice"]
 	path = users-microservice
-	url = .\\users-microservice\\
+	url = https://github.com/Jaimayal/elearning-users-microservice.git
