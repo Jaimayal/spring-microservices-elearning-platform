@@ -1,3 +1,6 @@
 [submodule "users-microservice"]
 	path = users-microservice
 	url = https://github.com/Jaimayal/elearning-users-microservice.git
+[submodule "courses-microservice"]
+	path = courses-microservice
+	url = https://github.com/Jaimayal/elearning-courses-microservice.git
