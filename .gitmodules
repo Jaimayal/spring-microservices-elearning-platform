@@ -1,6 +1,6 @@
 [submodule "courses-microservice"]
 	path = courses-microservice
-	url = .\\courses-microservice\\
+	url = https://github.com/Jaimayal/elearning-courses-microservice.git
 [submodule "users-microservice"]
 	path = users-microservice
 	url = https://github.com/Jaimayal/elearning-users-microservice.git
